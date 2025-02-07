@@ -1,2 +1,5 @@
-# selsup
-test task
+Для запуска
+npm i;
+npm run dev.
+
+
